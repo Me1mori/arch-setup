@@ -25,7 +25,7 @@ Script de instalación automático para configurar un entorno de escritorio comp
 ```bash
 # Después de reiniciar con Arch instalado
 sudo pacman -S git
-git clone <URL-DEL-REPOSITORIO> ~/arch-setup
+git clone https://github.com/Me1mori/arch-setup ~/arch-setup
 cd ~/arch-setup
 ```
 
