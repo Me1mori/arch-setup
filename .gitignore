@@ -1,0 +1,49 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Archivos de logs
+*.log
+logs/
+
+# Directorios temporales
+tmp/
+temp/
+cache/
+.cache/
+
+# Archivos de compilación
+*.o
+*.a
+*.so
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# Node modules (si se usa)
+node_modules/
+package-lock.json
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
